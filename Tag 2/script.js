@@ -1,7 +1,5 @@
 "use strict";
-
 //Variablen
-
 console.log(meineVariable); //Hoisting
 
 //Globaler Scope
