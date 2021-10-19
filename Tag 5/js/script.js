@@ -62,7 +62,6 @@
 {
     // Arrays manipulieren
     let heldenOnline = ["Thor","Jessica","Odin","Nebula","Luke","Daredevil"];
-
     // hinzufügen von 1+ Elementen am Ende des Arrays
     // Rückgabe = neue Länge des Arrays nach hinzufügen
     let newLength = heldenOnline.push("Heimdall");
