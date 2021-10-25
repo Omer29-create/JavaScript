@@ -34,6 +34,11 @@
    console.log(Number("3") == NaN);           // false 
 }
 
+
+
+
+
+
 {
     // Kontrollstrukturen / Steuerstrukturen 
     // Bedingung
